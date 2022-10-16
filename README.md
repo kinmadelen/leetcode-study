@@ -10,6 +10,12 @@
 ## Problems
 [Top Interview Question](https://leetcode.com/problem-list/top-interview-questions/?difficulty=EASY&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUk9OVEVORF9JRCJ9XQ%3D%3D)
 
+| Problem | Title            | Solved  | Reference |
+|:-------:|------------------|:-------:|:---------:|
+| 1       | Two Sum          |   ✅    | [#2][i2] |
+| 13      | Roman to Integer |   ✅    | [#2][i2] |
+| 14      | Longest Common Prefix |    | [#3][i3] |
+| 20      | Valid Parentheses |        | [#3][i3] |
 
 ## Study Plan
 - Day before
@@ -21,3 +27,7 @@
   2. any blockers or issues you had?
   3. fully understood the algorithm/data-structure/or-any-knoweledge used in the problem?
   4. feedback for code review
+
+
+[i2]: https://github.com/kinmadelen/easy/issues/2
+[i3]: https://github.com/kinmadelen/easy/issues/3
