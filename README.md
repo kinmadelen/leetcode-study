@@ -14,8 +14,8 @@
 |:-------:|------------------|:-------:|:---------:|
 | 1       | Two Sum          |   ✅    | [#2][i2] |
 | 13      | Roman to Integer |   ✅    | [#2][i2] |
-| 14      | Longest Common Prefix |    | [#3][i3] |
-| 20      | Valid Parentheses |        | [#3][i3] |
+| 14      | Longest Common Prefix |    | [#5][i5] |
+| 20      | Valid Parentheses |        | [#5][i5] |
 
 ## Study Plan
 - Day before
@@ -30,4 +30,4 @@
 
 
 [i2]: https://github.com/kinmadelen/easy/issues/2
-[i3]: https://github.com/kinmadelen/easy/issues/3
+[i3]: https://github.com/kinmadelen/easy/issues/5
