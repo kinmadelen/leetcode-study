@@ -30,4 +30,4 @@
 
 
 [i2]: https://github.com/kinmadelen/easy/issues/2
-[i3]: https://github.com/kinmadelen/easy/issues/5
+[i5]: https://github.com/kinmadelen/easy/issues/5
