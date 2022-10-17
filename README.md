@@ -14,8 +14,19 @@
 |:-------:|------------------|:-------:|:---------:|
 | 1       | Two Sum          |   ✅    | [#2][i2] |
 | 13      | Roman to Integer |   ✅    | [#2][i2] |
-| 14      | Longest Common Prefix |    | [#5][i5] |
-| 20      | Valid Parentheses |        | [#5][i5] |
+| 14      | Longest Common Prefix |  ✅  | [#5][i5] |
+| 20      | Valid Parentheses |    ✅    | [#5][i5] |
+| 21      | Merge Two Sorted List |    | [#8][i8] |
+| 26      | Remove Duplicates from Sorted Array |        | [#8][i8] |
+| 66      | Plus One |        |  |
+| 69      | Sqrt(x) |        |  |
+| 70      | Climbing Stairs |        |  |
+| 88      | Merge Sorted Array |        |  |
+| 94      | Binary Tree Inorder Traversal |        |  |
+| 101      | Symmetric Tree |        |  |
+| 104      | Maximum Depth of Binary Tree |        |  |
+| 108      | Convert Sorted Array to Binary Search Tree |        |  |
+| 118      | Pascal's Triangle |        |  |
 
 ## Study Plan
 - Day before
@@ -31,3 +42,4 @@
 
 [i2]: https://github.com/kinmadelen/easy/issues/2
 [i5]: https://github.com/kinmadelen/easy/issues/5
+[i8]: https://github.com/kinmadelen/easy/issues/8
