@@ -33,5 +33,33 @@ function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode
 };
 ```
 
+Modified the code to use less space.
+```ts
+function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
+    if(!list1) return list2;
+    if(!list2) return list1;
+    
+    let head: ListNode = new ListNode(0);
+    let curr = head;
+    
+    while(list1 && list2) {
+        if(list1.val < list2.val) {
+            curr.next = list1;
+            list1 = list1.next;
+        } else {
+            curr.next = list2;
+            list2 = list2.next;
+        }
+        curr = curr.next;
+    }
+    
+    if(list1) curr.next = list1;
+    if(list2) curr.next = list2;
+    
+    return head.next;
+};
+```
+
 ## Complexity
 `list1`의 노드의 개수가 `N`, `list2`의 크기가 `M`이라고 할 때, 시간복잡도는 O(min(N, M))이 된다.
+
