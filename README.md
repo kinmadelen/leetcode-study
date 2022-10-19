@@ -18,10 +18,10 @@
 | 20      | Valid Parentheses |    ✅    | [#5][i5] |
 | 21      | Merge Two Sorted List |  ✅  | [#8][i8] |
 | 26      | Remove Duplicates from Sorted Array |    ✅    | [#8][i8] |
-| 66      | Plus One |        | [#11][i11] |
-| 69      | Sqrt(x) |        | [#11][i11] |
-| 70      | Climbing Stairs |        |  |
-| 88      | Merge Sorted Array |        |  |
+| 66      | Plus One |    ✅    | [#11][i11] |
+| 69      | Sqrt(x) |    ✅    | [#11][i11] |
+| 70      | Climbing Stairs |        | [#14][i14] |
+| 88      | Merge Sorted Array |        | [#14][i14] |
 | 94      | Binary Tree Inorder Traversal |        |  |
 | 101      | Symmetric Tree |        |  |
 | 104      | Maximum Depth of Binary Tree |        |  |
@@ -44,3 +44,4 @@
 [i5]: https://github.com/kinmadelen/easy/issues/5
 [i8]: https://github.com/kinmadelen/easy/issues/8
 [i11]: https://github.com/kinmadelen/easy/issues/11
+[i14]: https://github.com/kinmadelen/easy/issues/14
