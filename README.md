@@ -24,7 +24,7 @@
 | 88      | Merge Sorted Array |    ✅    | [#14][i14] |
 | 94      | Binary Tree Inorder Traversal |        | [#17][i17] |
 | 101      | Symmetric Tree |        | [#17][i17] |
-| 104      | Maximum Depth of Binary Tree |        |  |
+| 104      | Maximum Depth of Binary Tree | |   [#17][i17]    |
 | 108      | Convert Sorted Array to Binary Search Tree |        |  |
 | 118      | Pascal's Triangle |        |  |
 
