@@ -20,10 +20,10 @@
 | 26      | Remove Duplicates from Sorted Array |    ✅    | [#8][i8] |
 | 66      | Plus One |    ✅    | [#11][i11] |
 | 69      | Sqrt(x) |    ✅    | [#11][i11] |
-| 70      | Climbing Stairs |        | [#14][i14] |
-| 88      | Merge Sorted Array |        | [#14][i14] |
-| 94      | Binary Tree Inorder Traversal |        |  |
-| 101      | Symmetric Tree |        |  |
+| 70      | Climbing Stairs |    ✅    | [#14][i14] |
+| 88      | Merge Sorted Array |    ✅    | [#14][i14] |
+| 94      | Binary Tree Inorder Traversal |        | [#17][i17] |
+| 101      | Symmetric Tree |        | [#17][i17] |
 | 104      | Maximum Depth of Binary Tree |        |  |
 | 108      | Convert Sorted Array to Binary Search Tree |        |  |
 | 118      | Pascal's Triangle |        |  |
@@ -45,3 +45,4 @@
 [i8]: https://github.com/kinmadelen/easy/issues/8
 [i11]: https://github.com/kinmadelen/easy/issues/11
 [i14]: https://github.com/kinmadelen/easy/issues/14
+[i17]: https://github.com/kinmadelen/easy/issues/17
