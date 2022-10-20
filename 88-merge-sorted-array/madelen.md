@@ -38,5 +38,5 @@ function merge(nums1: number[], m: number, nums2: number[], n: number): void {
 }
 ```
 
-- 시간 복잡도는 **O(N)**
+- 시간 복잡도는 **O(m+n)**
 
