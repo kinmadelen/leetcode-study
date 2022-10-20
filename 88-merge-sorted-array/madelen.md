@@ -38,5 +38,24 @@ function merge(nums1: number[], m: number, nums2: number[], n: number): void {
 }
 ```
 
-- 시간 복잡도는 **O(m+n)**
+- 시간 복잡도: **O(m+n)**
+- 공간 복잡도: **O(m+n)**
 
+### Method 2: In-place
+```ts
+function merge(nums1: number[], m: number, nums2: number[], n: number): void {
+  let i = m - 1;
+  let j = n - 1;
+  let pos = m + n - 1;
+
+  while (j >= 0) {
+    if (i >= 0 && nums1[i] > nums2[j]) {
+      nums1[pos--] = nums1[i--];
+    } else {
+      nums1[pos--] = nums2[j--];
+    }
+  }
+}
+```
+- 시간 복잡도: **O(m+n)**
+- 공간 복잡도: **O(1)**
