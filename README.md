@@ -30,8 +30,8 @@
 | 121     | Best Time to Buy and Sell Stock |       |
 | 125     | Valid Palindrome |       |
 | 136     | Single Number |       |
-| 141     | Linked List Cycle |       |
-| 160     | Intersection of Two Linked Lists |       |
+| 141     | Linked List Cycle |   | [#20][i20]   |
+| 160     | Intersection of Two Linked Lists |  |  [#20][i20]   |
 | 163     | Missing Ranges |       |
 | 169     | Majority Element |       |
 | 171     | Excel Sheet Column Number |       |
@@ -48,7 +48,7 @@
 | 344     | Reverse String |       |
 | 350     | Intersection of Two Arrays II |       |
 | 387     | First Unique Character in a String |       |
-| 412     | Fizz Buzz |       |
+| 412     | Fizz Buzz |  | [#20][i20] |
 
 ## Study Plan
 - Day before
@@ -68,3 +68,5 @@
 [i11]: https://github.com/kinmadelen/easy/issues/11
 [i14]: https://github.com/kinmadelen/easy/issues/14
 [i17]: https://github.com/kinmadelen/easy/issues/17
+[i20]: https://github.com/kinmadelen/easy/issues/20
+
