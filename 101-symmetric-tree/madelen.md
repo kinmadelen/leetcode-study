@@ -38,13 +38,13 @@ END
 function isSymmetric(root: TreeNode | null): boolean {
   if (!root) return true;
 
-  const q: TreeNode[] = [];
+  const q: (TreeNode | null)[] = [];
   q.push(root.left);
   q.push(root.right);
 
   while (q.length) {
-    let left: TreeNode = q.shift();
-    let right: TreeNode = q.shift();
+    let left = q.shift();
+    let right = q.shift();
 
     if (!left && right) return false;
     if (left && !right) return false;
