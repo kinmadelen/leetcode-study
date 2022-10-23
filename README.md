@@ -23,32 +23,32 @@
 | 70      | Climbing Stairs |    ✅    | [#14][i14] |
 | 88      | Merge Sorted Array |    ✅    | [#14][i14] |
 | 94      | Binary Tree Inorder Traversal |        | [#17][i17] |
-| 101      | Symmetric Tree |        | [#17][i17] |
-| 104      | Maximum Depth of Binary Tree | |   [#17][i17]    |
-| 108      | Convert Sorted Array to Binary Search Tree |        |  |
-| 118      | Pascal's Triangle |        |  |
-|121| Best Time to Buy and Sell Stock| |
-|125| Valid Palindrome| |
-|136| Single Number| |
-|141| Linked List Cycle46.8%| |
-|160| Intersection of Two Linked Lists| |
-|163| Missing Ranges| |
-|169| Majority Element| |
-|171| Excel Sheet Column Number| |
-|190| Reverse Bits| |
-|191| Number of 1 Bits| |
-|202| Happy Number| |
-|206| Reverse Linked List| |
-|217| Contains Duplicate| |
-|234| Palindrome Linked List| |
-|242| Valid Anagram| |
-|268| Missing Number| |
-|283| Move Zeroes| |
-|326| Power of Three| |
-|344| Reverse String| |
-|350| Intersection of Two Arrays II| |
-|387| First Unique Character in a String| |
-|412| Fizz Buzz| |
+| 101     | Symmetric Tree |        | [#17][i17] |
+| 104     | Maximum Depth of Binary Tree | |   [#17][i17]    |
+| 108     | Convert Sorted Array to Binary Search Tree |        |  |
+| 118     | Pascal's Triangle |        |  |
+| 121     | Best Time to Buy and Sell Stock |       |
+| 125     | Valid Palindrome |       |
+| 136     | Single Number |       |
+| 141     | Linked List Cycle |       |
+| 160     | Intersection of Two Linked Lists |       |
+| 163     | Missing Ranges |       |
+| 169     | Majority Element |       |
+| 171     | Excel Sheet Column Number |       |
+| 190     | Reverse Bits |       |
+| 191     | Number of 1 Bits |       |
+| 202     | Happy Number |       |
+| 206     | Reverse Linked List |       |
+| 217     | Contains Duplicate |       |
+| 234     | Palindrome Linked List |       |
+| 242     | Valid Anagram |       |
+| 268     | Missing Number |       |
+| 283     | Move Zeroes |       |
+| 326     | Power of Three |       |
+| 344     | Reverse String |       |
+| 350     | Intersection of Two Arrays II |       |
+| 387     | First Unique Character in a String |       |
+| 412     | Fizz Buzz |       |
 
 ## Study Plan
 - Day before
