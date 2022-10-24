@@ -48,7 +48,7 @@
 | 344     | Reverse String |       |
 | 350     | Intersection of Two Arrays II |       |
 | 387     | First Unique Character in a String |       |
-| 412     | Fizz Buzz |  | [#20][i20] |
+| 412     | Fizz Buzz | ✅ | [#20][i20] |
 
 ## Study Plan
 - Day before
