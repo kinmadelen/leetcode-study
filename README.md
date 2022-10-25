@@ -38,7 +38,7 @@
 | 190     | Reverse Bits |       |
 | 191     | Number of 1 Bits |       |
 | 202     | Happy Number |       |
-| 206     | Reverse Linked List |       |
+| 206     | Reverse Linked List |       | [#20][i20] |
 | 217     | Contains Duplicate |       |
 | 234     | Palindrome Linked List |       |
 | 242     | Valid Anagram |       |
