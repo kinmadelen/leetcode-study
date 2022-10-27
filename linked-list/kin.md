@@ -1,5 +1,4 @@
 ```python
-
 class Node(object):
     def __init__(self, data):
         self.data = data
@@ -100,5 +99,6 @@ if __name__ == "__main__":
 
     singlyList.reverse()
     singlyList.print()
+
 
 ```
