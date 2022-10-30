@@ -66,4 +66,4 @@ function getIntersectionNode(
 ## Complexity
 
 - Time complexity: $O(N+M)$, `N = listA.length` and `M = listB.length.`
-- Space complexity: $O(N)$, `N = listA.length`
+- Space complexity: $O(N+M)$, `N = listA.length` and `M = listB.length`
