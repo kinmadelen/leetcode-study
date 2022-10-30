@@ -25,13 +25,13 @@
 | 94      | Binary Tree Inorder Traversal |    ✅    | [#17][i17] |
 | 101     | Symmetric Tree |    ✅    | [#17][i17] |
 | 104     | Maximum Depth of Binary Tree | ✅ |   [#17][i17]    |
-| 108     | Convert Sorted Array to Binary Search Tree |        |  |
-| 118     | Pascal's Triangle |        |  |
+| 108     | Convert Sorted Array to Binary Search Tree |        | [#29][i29] |
+| 118     | Pascal's Triangle |        |   |
 | 121     | Best Time to Buy and Sell Stock |       |
 | 125     | Valid Palindrome |       |
 | 136     | Single Number |       |
 | 141     | Linked List Cycle | ✅  | [#20][i20]   |
-| 160     | Intersection of Two Linked Lists |  |  [#26][i26]   |
+| 160     | Intersection of Two Linked Lists | ✅ |  [#26][i26]   |
 | 163     | Missing Ranges |       |
 | 169     | Majority Element |       |
 | 171     | Excel Sheet Column Number |       |
@@ -40,7 +40,7 @@
 | 202     | Happy Number |       |
 | 206     | Reverse Linked List |   ✅    | [#20][i20] |
 | 217     | Contains Duplicate |       |
-| 234     | Palindrome Linked List |       | [#26][i26] |
+| 234     | Palindrome Linked List |   ✅    | [#26][i26] |
 | 242     | Valid Anagram |       |
 | 268     | Missing Number |       |
 | 283     | Move Zeroes |       |
@@ -70,5 +70,6 @@
 [i17]: https://github.com/kinmadelen/easy/issues/17
 [i20]: https://github.com/kinmadelen/easy/issues/20
 [i26]: https://github.com/kinmadelen/easy/issues/26
+[i29]: https://github.com/kinmadelen/easy/issues/29
 
 
