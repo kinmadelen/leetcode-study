@@ -40,4 +40,5 @@ insert(root, value) -> void
 END
 ```
 
-Time complexity: **O(log n)**
+- 시간 복잡도:
+  + 최악의 경우 skewed tree를 생각해보면 된다. 이 경우 단순히 연결리스트와 같기 때문에 **O(n)**이 된다. 단순하게 트리의 높이 (height)이라고 생각하면 된다 → **O(h)**
