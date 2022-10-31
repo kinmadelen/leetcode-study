@@ -44,6 +44,24 @@ export class BST<T> {
     }
   }
 
+  insertRecur(value: T): void {
+    this.root = this.insertRecurHelper(value, this.root);
+  }
+
+  insertRecurHelper(value: T, node: BSTNode<T> = this.root): BSTNode<T> {
+    if (null === node) {
+      return new BinarySearchTreeNode<T>(value);
+    }
+
+    if (node && value < node.value) {
+      node.left = this.insertRecurHelper(value, node.left);
+    } else if (node && value >= node.value) {
+      node.right = this.insertRecurHelper(value, node.right);
+    }
+
+    return node;
+  }
+
   inorder(node: BSTNode<T> = this.root) {
     if (null === node) return;
     this.inorder(node?.left);
