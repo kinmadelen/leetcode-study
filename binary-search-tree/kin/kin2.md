@@ -137,7 +137,7 @@ class Node:
         if root is None or root.data == target:
             return root is not None
         elif target < root.data:
-            return self.search_target(root.left, key)
+            return self.search_target(root.left, target)
         else:
             return self.search_target(root.right, target)
 ```
