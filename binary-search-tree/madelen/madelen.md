@@ -118,6 +118,10 @@ class BST {
 
 ### 🔵 **Preorder**
 
+![preorder](./preorder.jpg)
+
+> Preorder: `10 5 1 7 15 30 20 35`
+
 Recursive
 
 ```ts
@@ -154,6 +158,10 @@ class BST {
 ```
 
 ### 🔵 **Inorder**
+
+![inorder](./inorder.jpg)
+
+> Inorder: `1 5 7 10 15 20 30 35`
 
 Recursive
 
@@ -195,6 +203,10 @@ class BST {
 ```
 
 ### 🔵 **Postorder**
+
+![postorder](./postorder.jpg)
+
+> Postorder: `1 7 5 20 35 30 15 10`
 
 Recursive
 
