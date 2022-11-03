@@ -115,7 +115,7 @@ if __name__=="__main__":
 
 ---
 
-### Binary SearchTree Tree - Search
+### Binary SearchTree - Search
 
 - 이진탐색트리는 이진트리의 특수한 경우
 - 모든 노드에 대해 그 왼쪽 자식들의 값이 현재 노드값보다 작거나 같으며,
