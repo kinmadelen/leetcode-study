@@ -25,29 +25,29 @@
 | 94      | Binary Tree Inorder Traversal |    ✅    | [#17][i17] |
 | 101     | Symmetric Tree |    ✅    | [#17][i17] |
 | 104     | Maximum Depth of Binary Tree | ✅ |   [#17][i17]    |
-| 108     | Convert Sorted Array to Binary Search Tree |        | [#29][i29] |
-| 118     | Pascal's Triangle |        |   |
-| 121     | Best Time to Buy and Sell Stock |       |
-| 125     | Valid Palindrome |       |
-| 136     | Single Number |       |
+| 108     | Convert Sorted Array to Binary Search Tree |       | [#29][i29] |
+| 118     | Pascal's Triangle |        | [#35][i35]  |
+| 121     | Best Time to Buy and Sell Stock | | [#35][i35] |
+| 125     | Valid Palindrome |       | [#35][i35] |
+| 136     | Single Number |       | |
 | 141     | Linked List Cycle | ✅  | [#20][i20]   |
 | 160     | Intersection of Two Linked Lists | ✅ |  [#26][i26]   |
-| 163     | Missing Ranges |       |
-| 169     | Majority Element |       |
-| 171     | Excel Sheet Column Number |       |
-| 190     | Reverse Bits |       |
-| 191     | Number of 1 Bits |       |
-| 202     | Happy Number |       |
+| 163     | Missing Ranges |       | |
+| 169     | Majority Element |       | |
+| 171     | Excel Sheet Column Number |       | |
+| 190     | Reverse Bits |       | |
+| 191     | Number of 1 Bits |      | |
+| 202     | Happy Number |       | |
 | 206     | Reverse Linked List |   ✅    | [#20][i20] |
-| 217     | Contains Duplicate |       |
+| 217     | Contains Duplicate |       | |
 | 234     | Palindrome Linked List |   ✅    | [#26][i26] |
-| 242     | Valid Anagram |       |
-| 268     | Missing Number |       |
-| 283     | Move Zeroes |       |
-| 326     | Power of Three |       |
-| 344     | Reverse String |       |
-| 350     | Intersection of Two Arrays II |       |
-| 387     | First Unique Character in a String |       |
+| 242     | Valid Anagram |       | |
+| 268     | Missing Number |       | |
+| 283     | Move Zeroes |       | |
+| 326     | Power of Three |       | |
+| 344     | Reverse String |       | |
+| 350     | Intersection of Two Arrays II |       | |
+| 387     | First Unique Character in a String |       | |
 | 412     | Fizz Buzz | ✅ | [#20][i20] |
 
 ## Study Plan
@@ -71,5 +71,6 @@
 [i20]: https://github.com/kinmadelen/easy/issues/20
 [i26]: https://github.com/kinmadelen/easy/issues/26
 [i29]: https://github.com/kinmadelen/easy/issues/29
+[i35]: https://github.com/kinmadelen/easy/issues/35
 
 
