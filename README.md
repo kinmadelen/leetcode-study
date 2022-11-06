@@ -26,14 +26,13 @@
 | 101     | Symmetric Tree |    ✅    | [#17][i17] |
 | 104     | Maximum Depth of Binary Tree | ✅ |   [#17][i17]    |
 | 108     | Convert Sorted Array to Binary Search Tree |    ✅   | [#29][i29] |
-| 118     | Pascal's Triangle |        | [#35][i35]  |
-| 121     | Best Time to Buy and Sell Stock | | [#35][i35] |
-| 125     | Valid Palindrome |       | [#35][i35] |
-| 136     | Single Number |       | |
+| 118     | Pascal's Triangle |    ✅    | [#35][i35]  |
+| 121     | Best Time to Buy and Sell Stock | ✅ | [#35][i35] |
+| 125     | Valid Palindrome |    ✅   | [#35][i35] |
+| 136     | Single Number |       | [#38][i38] |
 | 141     | Linked List Cycle | ✅  | [#20][i20]   |
-| 160     | Intersection of Two Linked Lists | ✅ |  [#26][i26]   |
-| 163     | Missing Ranges |       | |
-| 169     | Majority Element |       | |
+| 160     | Intersection of Two Linked Lists | ✅|  [#26][i26]   |
+| 169     | Majority Element |       | [#38][i38] |
 | 171     | Excel Sheet Column Number |       | |
 | 190     | Reverse Bits |       | |
 | 191     | Number of 1 Bits |      | |
@@ -72,5 +71,6 @@
 [i26]: https://github.com/kinmadelen/easy/issues/26
 [i29]: https://github.com/kinmadelen/easy/issues/29
 [i35]: https://github.com/kinmadelen/easy/issues/35
+[i38]: https://github.com/kinmadelen/easy/issues/38
 
 
