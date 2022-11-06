@@ -38,3 +38,7 @@ class Solution:
 [카데인 알고리즘
 ](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)은 이런 DP 기법 중 하나이다.
 보통 최대 부분 합을 구할 때 사용한다.
+
+![Page1](https://user-images.githubusercontent.com/48708746/200193731-dc459ecc-3e6a-4a75-b58d-3141dd89ca5c.png)
+![Page2](https://user-images.githubusercontent.com/48708746/200193734-d30eafc8-5447-4768-8a04-c821b887cc2f.png)
+![Page3](https://user-images.githubusercontent.com/48708746/200193738-7237420f-7b78-493d-b181-efe2f147b2d2.png)
