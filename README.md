@@ -24,7 +24,7 @@
 |  3  | 11.04 | [Convert Sorted Array to Binary Search Tree][ip108] |                                             |                                       | [#29][i29] |
 |  4  | 11.07 | [Pascal's Triangle][ip118]                          | [Best Time to Buy and Sell Stock][ip121]    | [Valid Palindrome][ip125]             | [#35][i35] |
 |  4  | 11.08 | [Single Number][ip136]                              | [Majority Element][ip169]                   |                                       | [#38][i38] |
-|  4  | 11.08 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
+|  4  | 11.09 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
 
 <!-- |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       |            |
 |  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |            |
