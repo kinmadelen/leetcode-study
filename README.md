@@ -4,13 +4,39 @@
 ⏰ Meeting: 06:30 ~ 07:00 (weekdays) KST/JST
 
 ### 💻 Member
-- madelen (@rolemadelen) <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-- kin (@yangchoi) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+<table>
+  <tr>
+    <th>rolemadelen</th>
+    <th>kin</th>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/rolemadelen">
+       <img src="https://avatars.githubusercontent.com/u/101682300?v=4" width="100px;" alt=""/>
+       <br />
+     </a>
+     <sub>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+     </sub>
+    </td>
+   <td align="center">
+     <a href="https://github.com/yangchoi">
+       <img src="https://avatars.githubusercontent.com/u/48708746?v=4" width="100px;" alt=""/>
+       <br />
+     </a>
+     <sub>
+       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    </sub>
+    </td>
+  </tr>
+</table>
 
 ## Problems
 [Top Interview Question](https://leetcode.com/problem-list/top-interview-questions/?difficulty=EASY&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUk9OVEVORF9JRCJ9XQ%3D%3D)
 
-|  W  |   D   | P1                                                  | P2                                          | P3                                    | Reference  |
+
+|  W  |   D   | P1                                                  | P2                                          | P3                                    |   Issues   |
 | :-: | :---: | :-------------------------------------------------- | :------------------------------------------ | :------------------------------------ | :--------: |
 |  1  | 10.17 | [Two Sum][ip2]                                      | [Roman To Integer][ip13]                    |                                       |  [#2][i2]  |
 |  1  | 10.18 | [Longest Common Prefix][ip14]                       | [Valid Parentheses][ip20]                   |                                       |  [#5][i5]  |
@@ -25,9 +51,10 @@
 |  4  | 11.07 | [Pascal's Triangle][ip118]                          | [Best Time to Buy and Sell Stock][ip121]    | [Valid Palindrome][ip125]             | [#35][i35] |
 |  4  | 11.08 | [Single Number][ip136]                              | [Majority Element][ip169]                   |                                       | [#38][i38] |
 |  4  | 11.09 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
+|  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
 
-<!-- |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       |            |
-|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |            |
+
+<!--|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |            |
 |  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               |            |
 |  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
 |  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
@@ -94,3 +121,4 @@
 [i35]: https://github.com/kinmadelen/easy/issues/35
 [i38]: https://github.com/kinmadelen/easy/issues/38
 [i41]: https://github.com/kinmadelen/easy/issues/41
+[i44]: https://github.com/kinmadelen/easy/issues/44
