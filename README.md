@@ -1,7 +1,7 @@
 # LEETCODE STUDY - EASY
 
 ⭐️ Since 2022.10.16 ~ <br />
-⏰ Meeting: 06:30 ~ 07:00 (weekdays) KST/JST
+⏰ Meeting: 06:00 ~ 06:30 (weekdays) KST/JST
 
 ### 💻 Member
 
@@ -102,7 +102,7 @@
   1. Solve the problem!
   2. Create a pull request a day before by 22:00.
   3. Do the code review and give a comment :)
-- On the day (06:30)
+- On the day (06:00)
   1. Share thoughts about how you approached to solve the problem.
   2. any blockers or issues you had?
   3. fully understood the algorithm/data-structure/or-any-knoweledge used in the problem?
