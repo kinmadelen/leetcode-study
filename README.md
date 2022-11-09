@@ -52,10 +52,9 @@
 |  4  | 11.08 | [Single Number][ip136]                              | [Majority Element][ip169]                   |                                       | [#38][i38] |
 |  4  | 11.09 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
 |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
+|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |  [#45][i45] |
 
-
-<!--|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |            |
-|  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               |            |
+<!--|  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               |            |
 |  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
 |  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
 
@@ -122,3 +121,4 @@
 [i38]: https://github.com/kinmadelen/easy/issues/38
 [i41]: https://github.com/kinmadelen/easy/issues/41
 [i44]: https://github.com/kinmadelen/easy/issues/44
+[i45]: https://github.com/kinmadelen/easy/issues/45
