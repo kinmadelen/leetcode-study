@@ -52,12 +52,41 @@
 |  4  | 11.08 | [Single Number][ip136]                              | [Majority Element][ip169]                   |                                       | [#38][i38] |
 |  4  | 11.09 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
 |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
-|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       |  [#45][i45] |
+|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       | [#45][i45] |
+|  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               | [#49][i49] |
 
-<!--|  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               |            |
-|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
+<!--|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
 |  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
 
+## Filename Guideline
+- Create a directory per problem → `###-name-of-the-problem`
+- Create a markdown file with your username → `madelen.md`
+- Do not commit any files other than `.md`
+
+## Code Review Guideline
+- First understand the flow of the code.
+- Then give a feedback, e.g.)
+  - comment about the part where you think this person did well
+  - ask why certain code is used
+  - suggest more efficient code
+  - share other ways to solve a problem
+  - etc...
+
+[i2]: https://github.com/kinmadelen/easy/issues/2
+[i5]: https://github.com/kinmadelen/easy/issues/5
+[i8]: https://github.com/kinmadelen/easy/issues/8
+[i11]: https://github.com/kinmadelen/easy/issues/11
+[i14]: https://github.com/kinmadelen/easy/issues/14
+[i17]: https://github.com/kinmadelen/easy/issues/17
+[i20]: https://github.com/kinmadelen/easy/issues/20
+[i26]: https://github.com/kinmadelen/easy/issues/26
+[i29]: https://github.com/kinmadelen/easy/issues/29
+[i35]: https://github.com/kinmadelen/easy/issues/35
+[i38]: https://github.com/kinmadelen/easy/issues/38
+[i41]: https://github.com/kinmadelen/easy/issues/41
+[i44]: https://github.com/kinmadelen/easy/issues/44
+[i45]: https://github.com/kinmadelen/easy/issues/45
+[i49]: https://github.com/kinmadelen/easy/issues/49
 
 [ip2]: https://leetcode.com/problems/two-sum/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
@@ -95,30 +124,3 @@
 [ip350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [ip387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [ip412]: https://leetcode.com/problems/fizz-buzz/
-
-## Study Plan
-
-- Day before
-  1. Solve the problem!
-  2. Create a pull request a day before by 22:00.
-  3. Do the code review and give a comment :)
-- On the day (06:00)
-  1. Share thoughts about how you approached to solve the problem.
-  2. any blockers or issues you had?
-  3. fully understood the algorithm/data-structure/or-any-knoweledge used in the problem?
-  4. feedback for code review
-
-[i2]: https://github.com/kinmadelen/easy/issues/2
-[i5]: https://github.com/kinmadelen/easy/issues/5
-[i8]: https://github.com/kinmadelen/easy/issues/8
-[i11]: https://github.com/kinmadelen/easy/issues/11
-[i14]: https://github.com/kinmadelen/easy/issues/14
-[i17]: https://github.com/kinmadelen/easy/issues/17
-[i20]: https://github.com/kinmadelen/easy/issues/20
-[i26]: https://github.com/kinmadelen/easy/issues/26
-[i29]: https://github.com/kinmadelen/easy/issues/29
-[i35]: https://github.com/kinmadelen/easy/issues/35
-[i38]: https://github.com/kinmadelen/easy/issues/38
-[i41]: https://github.com/kinmadelen/easy/issues/41
-[i44]: https://github.com/kinmadelen/easy/issues/44
-[i45]: https://github.com/kinmadelen/easy/issues/45
