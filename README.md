@@ -54,9 +54,9 @@
 |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
 |  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       | [#45][i45] |
 |  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               | [#49][i49] |
+|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
 
-<!--|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |            |
-|  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
+<!--|  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
 
 ## Filename Guideline
 - Create a directory per problem → `###-name-of-the-problem`
