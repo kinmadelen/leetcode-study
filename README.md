@@ -90,9 +90,6 @@
 [i49]: https://github.com/kinmadelen/easy/issues/49
 [i53]: https://github.com/kinmadelen/easy/issues/53
 [i55]: https://github.com/kinmadelen/easy/issues/55
-
-> > > > > > > 9172416 (Update README.md)
-
 [ip2]: https://leetcode.com/problems/two-sum/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
 [ip14]: https://leetcode.com/problems/longest-common-prefix/
