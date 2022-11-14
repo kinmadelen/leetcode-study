@@ -54,9 +54,8 @@
 |  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
 |  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       | [#45][i45] |
 |  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               | [#49][i49] |
-|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       |  [#53][i53] |
-
-<!--|  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       |            | -->
+|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       | [#53][i53] |
+|  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       | [#55][i55] |
 
 ## Filename Guideline
 - Create a directory per problem → `###-name-of-the-problem`
@@ -88,6 +87,7 @@
 [i45]: https://github.com/kinmadelen/easy/issues/45
 [i49]: https://github.com/kinmadelen/easy/issues/49
 [i53]: https://github.com/kinmadelen/easy/issues/53
+[i55]: https://github.com/kinmadelen/easy/issues/55
 
 [ip2]: https://leetcode.com/problems/two-sum/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
