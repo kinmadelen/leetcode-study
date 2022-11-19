@@ -57,6 +57,7 @@
 |  5  | 11.15 | [・Reverse String][ip344] <br /> [・Intersection of Two Arrays II][ip350]                                               | [#53][i53] |
 |  5  | 11.16 | [・First Unique Character in a String][ip387]                                                                           | [#55][i55] |
 |  6  | 11.21 | [・Merge Nodes in Between Zeros][ip2181]                                                                                | [#60][i60] |
+|  6  | 11.22 | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83]       |            |
 
 ## Filename Guideline
 
@@ -101,6 +102,7 @@
 [ip66]: https://leetcode.com/problems/plus-one/
 [ip69]: https://leetcode.com/problems/sqrtx/
 [ip70]: https://leetcode.com/problems/climbing-stairs/
+[ip83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [ip88]: https://leetcode.com/problems/merge-sorted-array/
 [ip94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [ip101]: https://leetcode.com/problems/symmetric-tree/
@@ -128,4 +130,5 @@
 [ip350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [ip387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [ip412]: https://leetcode.com/problems/fizz-buzz/
+[ip1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
 [ip2181]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
