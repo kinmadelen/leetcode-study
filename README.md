@@ -36,26 +36,27 @@
 
 [Top Interview Question](https://leetcode.com/problem-list/top-interview-questions/?difficulty=EASY&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUk9OVEVORF9JRCJ9XQ%3D%3D)
 
-|  W  |   D   | P1                                                  | P2                                          | P3                                    |   Issues   |
-| :-: | :---: | :-------------------------------------------------- | :------------------------------------------ | :------------------------------------ | :--------: |
-|  1  | 10.17 | [Two Sum][ip2]                                      | [Roman To Integer][ip13]                    |                                       |  [#2][i2]  |
-|  1  | 10.18 | [Longest Common Prefix][ip14]                       | [Valid Parentheses][ip20]                   |                                       |  [#5][i5]  |
-|  1  | 10.19 | [Merge Two Sorted Lists][ip21]                      | [Remove Duplicates from Sorted Array][ip26] |                                       |  [#8][i8]  |
-|  1  | 10.20 | [Plus One][ip66]                                    | [Sqrt(x)][ip26]                             |                                       | [#11][i11] |
-|  1  | 10.21 | [Climbing Stairs][ip70]                             | [Merge Sorted Array][ip88]                  |                                       | [#14][i14] |
-|  2  | 10.24 | [Binary Tree Inorder Traversal][ip94]               | [Symmetric Tree][ip101]                     | [Maximum Depth of Binary Tree][ip104] | [#17][i17] |
-|  2  | 10.25 | [Fizz Buzz][ip412]                                  |                                             |                                       | [#20][i20] |
-|  2  | 10.27 | [Linked List Cycle][ip141]                          | [Reverse Linked List][ip206]                |                                       | [#20][i20] |
-|  2  | 10.28 | [Intersection of Two Linked Lists][ip160]           | [Palindrome Linked List][ip234]             |                                       | [#26][i26] |
-|  3  | 11.04 | [Convert Sorted Array to Binary Search Tree][ip108] |                                             |                                       | [#29][i29] |
-|  4  | 11.07 | [Pascal's Triangle][ip118]                          | [Best Time to Buy and Sell Stock][ip121]    | [Valid Palindrome][ip125]             | [#35][i35] |
-|  4  | 11.08 | [Single Number][ip136]                              | [Majority Element][ip169]                   |                                       | [#38][i38] |
-|  4  | 11.09 | [Excel Sheet Column Number][ip171]                  | [Reverse Bits][ip190]                       |                                       | [#41][i41] |
-|  4  | 11.10 | [Number of 1 Bits][ip191]                           | [Happy Number][ip202]                       |                                       | [#44][i44] |
-|  4  | 11.11 | [Contains Duplicate][ip217]                         | [Valid Anagram][ip242]                      |                                       | [#45][i45] |
-|  5  | 11.14 | [Missing Number][ip268]                             | [Move Zeroes][ip283]                        | [Power of Three][ip326]               | [#49][i49] |
-|  5  | 11.15 | [Reverse String][ip344]                             | [Intersection of Two Arrays II][ip350]      |                                       | [#53][i53] |
-|  5  | 11.16 | [First Unique Character in a String][ip387]         |                                             |                                       | [#55][i55] |
+|  W  |   D   | Problems                                                                                                                |   Issues   |
+| :-: | :---: | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
+|  1  | 10.17 | [・Two Sum][ip2] <br />[・Roman To Integer][ip13]                                                                       |  [#2][i2]  |
+|  1  | 10.18 | [・Longest Common Prefix][ip14] <br /> [・Valid Parentheses][ip20]                                                      |  [#5][i5]  |
+|  1  | 10.19 | [・Merge Two Sorted Lists][ip21] <br /> [・Remove Duplicates from Sorted Array][ip26]                                   |  [#8][i8]  |
+|  1  | 10.20 | [・Plus One][ip66] <br /> [・Sqrt(x)][ip26]                                                                             | [#11][i11] |
+|  1  | 10.21 | [・Climbing Stairs][ip70] <br /> [・Merge Sorted Array][ip88]                                                           | [#14][i14] |
+|  2  | 10.24 | [・Binary Tree Inorder Traversal][ip94] <br /> [・Symmetric Tree][ip101] <br /> [・Maximum Depth of Binary Tree][ip104] | [#17][i17] |
+|  2  | 10.25 | [・Fizz Buzz][ip412]                                                                                                    | [#20][i20] |
+|  2  | 10.27 | [・Linked List Cycle][ip141] <br /> [・Reverse Linked List][ip206]                                                      | [#20][i20] |
+|  2  | 10.28 | [・Intersection of Two Linked Lists][ip160] <br /> [・Palindrome Linked List][ip234]                                    | [#26][i26] |
+|  3  | 11.04 | [・Convert Sorted Array to Binary Search Tree][ip108]                                                                   | [#29][i29] |
+|  4  | 11.07 | [・Pascal's Triangle][ip118] <br /> [・Best Time to Buy and Sell Stock][ip121] <br /> [・Valid Palindrome][ip125]       | [#35][i35] |
+|  4  | 11.08 | [・Single Number][ip136] <br /> [・Majority Element][ip169]                                                             | [#38][i38] |
+|  4  | 11.09 | [・Excel Sheet Column Number][ip171] <br /> [・Reverse Bits][ip190]                                                     | [#41][i41] |
+|  4  | 11.10 | [・Number of 1 Bits][ip191] <br /> [・Happy Number][ip202]                                                              | [#44][i44] |
+|  4  | 11.11 | [・Contains Duplicate][ip217] <br /> [・Valid Anagram][ip242]                                                           | [#45][i45] |
+|  5  | 11.14 | [・Missing Number][ip268] <br /> [・Move Zeroes][ip283] <br /> [・Power of Three][ip326]                                | [#49][i49] |
+|  5  | 11.15 | [・Reverse String][ip344] <br /> [・Intersection of Two Arrays II][ip350]                                               | [#53][i53] |
+|  5  | 11.16 | [・First Unique Character in a String][ip387]                                                                           | [#55][i55] |
+|  6  | 11.21 | [・Merge Nodes in Between Zeros][ip2181]                                                                                | [#60][i60] |
 
 ## Filename Guideline
 
@@ -90,6 +91,7 @@
 [i49]: https://github.com/kinmadelen/easy/issues/49
 [i53]: https://github.com/kinmadelen/easy/issues/53
 [i55]: https://github.com/kinmadelen/easy/issues/55
+[i60]: https://github.com/kinmadelen/easy/issues/60
 [ip2]: https://leetcode.com/problems/two-sum/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
 [ip14]: https://leetcode.com/problems/longest-common-prefix/
@@ -126,3 +128,4 @@
 [ip350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [ip387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [ip412]: https://leetcode.com/problems/fizz-buzz/
+[ip2181]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
