@@ -38,7 +38,7 @@
 
 |  W  |   D   | Problems                                                                                                                |   Issues   |
 | :-: | :---: | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
-|  1  | 10.17 | [・Two Sum][ip2] <br />[・Roman To Integer][ip13]                                                                       |  [#2][i2]  |
+|  1  | 10.17 | [・Two Sum][ip1] <br />[・Roman To Integer][ip13]                                                                       |  [#2][i2]  |
 |  1  | 10.18 | [・Longest Common Prefix][ip14] <br /> [・Valid Parentheses][ip20]                                                      |  [#5][i5]  |
 |  1  | 10.19 | [・Merge Two Sorted Lists][ip21] <br /> [・Remove Duplicates from Sorted Array][ip26]                                   |  [#8][i8]  |
 |  1  | 10.20 | [・Plus One][ip66] <br /> [・Sqrt(x)][ip26]                                                                             | [#11][i11] |
@@ -57,8 +57,14 @@
 |  5  | 11.15 | [・Reverse String][ip344] <br /> [・Intersection of Two Arrays II][ip350]                                               | [#53][i53] |
 |  5  | 11.16 | [・First Unique Character in a String][ip387]                                                                           | [#55][i55] |
 | | | (╮°-°)╮┳━━┳ 휴식 ( ╯°□°)╯ ┻━━┻  | |
-|  6  | 11.21 | [・Merge Nodes in Between Zeros][ip2181]                                                                                | [#60][i60] |
-|  6  | 11.22 | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83]       |            |
+
+|  W  |   D   | Difficulty | Problems                                                                                                                |   Issues   |
+| :-: | :---: | :----: | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
+|  6  | 11.21 | Medium | [・Merge Nodes in Between Zeros][ip2181]                                                                                | [#60][i60] |
+|  6  | 11.22 | Easy | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83]       |            |
+|  6  | 11.24 | Medium | [・Add Two Numbers][ip2]       |            |
+|  6  | 11.27 | Hard | TBD       |            |
+|  7  | 11.28 | Easy | TBD       |            |
 
 ## Filename Guideline
 
@@ -94,7 +100,8 @@
 [i53]: https://github.com/kinmadelen/easy/issues/53
 [i55]: https://github.com/kinmadelen/easy/issues/55
 [i60]: https://github.com/kinmadelen/easy/issues/60
-[ip2]: https://leetcode.com/problems/two-sum/
+[ip1]: https://leetcode.com/problems/two-sum/
+[ip2]: https://leetcode.com/problems/add-two-numbers/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
 [ip14]: https://leetcode.com/problems/longest-common-prefix/
 [ip20]: https://leetcode.com/problems/valid-parentheses/
