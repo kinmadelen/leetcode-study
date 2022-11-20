@@ -56,15 +56,15 @@
 |  5  | 11.14 | [・Missing Number][ip268] <br /> [・Move Zeroes][ip283] <br /> [・Power of Three][ip326]                                | [#49][i49] |
 |  5  | 11.15 | [・Reverse String][ip344] <br /> [・Intersection of Two Arrays II][ip350]                                               | [#53][i53] |
 |  5  | 11.16 | [・First Unique Character in a String][ip387]                                                                           | [#55][i55] |
-| | | (╮°-°)╮┳━━┳ 휴식 ( ╯°□°)╯ ┻━━┻  | |
+|     |       | (╮°-°)╮┳━━┳ 휴식 ( ╯°□°)╯ ┻━━┻                                                                                          |            |
 
-|  W  |   D   | Difficulty | Problems                                                                                                                |   Issues   |
-| :-: | :---: | :----: | :---------------------------------------------------------------------------------------------------------------------- | :--------: |
-|  6  | 11.21 | Medium | [・Merge Nodes in Between Zeros][ip2181]                                                                                | [#60][i60] |
-|  6  | 11.22 | Easy | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83]       |            |
-|  6  | 11.24 | Medium | [・Add Two Numbers][ip2]       |            |
-|  6  | 11.27 | Hard | TBD       |            |
-|  7  | 11.28 | Easy | TBD       |            |
+|  W  |   D   | Difficulty | Problems                                                                                                          |   Issues    |
+| :-: | :---: | :--------: | :---------------------------------------------------------------------------------------------------------------- | :---------: |
+|  6  | 11.21 |   Medium   | [・Merge Nodes in Between Zeros][ip2181]                                                                          | [#60][i60]  |
+|  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] | [#65][ip83] |
+|  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          | [#64][ip2]  |
+|  6  | 11.27 |    Hard    | TBD                                                                                                               |             |
+|  7  | 11.28 |    Easy    | TBD                                                                                                               |             |
 
 ## Filename Guideline
 
