@@ -61,8 +61,8 @@
 |  W  |   D   | Difficulty | Problems                                                                                                          |   Issues    |
 | :-: | :---: | :--------: | :---------------------------------------------------------------------------------------------------------------- | :---------: |
 |  6  | 11.21 |   Medium   | [・Merge Nodes in Between Zeros][ip2181]                                                                          | [#60][i60]  |
-|  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] | [#65][ip83] |
-|  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          | [#64][ip2]  |
+|  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] | [#65][i65] |
+|  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          | [#64][i64]  |
 |  6  | 11.27 |    Hard    | TBD                                                                                                               |             |
 |  7  | 11.28 |    Easy    | TBD                                                                                                               |             |
 
@@ -100,6 +100,9 @@
 [i53]: https://github.com/kinmadelen/easy/issues/53
 [i55]: https://github.com/kinmadelen/easy/issues/55
 [i60]: https://github.com/kinmadelen/easy/issues/60
+[i64]: https://github.com/kinmadelen/easy/issues/64
+[i65]: https://github.com/kinmadelen/easy/issues/65
+
 [ip1]: https://leetcode.com/problems/two-sum/
 [ip2]: https://leetcode.com/problems/add-two-numbers/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
