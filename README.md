@@ -63,7 +63,7 @@
 |  6  | 11.21 |   Medium   | [・Merge Nodes in Between Zeros][ip2181]                                                                          |  [#60][i60]   |
 |  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] |  [#65][i65]   |
 |  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          |  [#64][i64]   |
-|  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138]                                                                          | [#138][ip138] |
+|  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]                          | [#71][i71] |
 |  6  | 11.27 |    Hard    | TBD                                                                                                               |               |
 |  7  | 11.28 |    Easy    | TBD                                                                                                               |               |
 
@@ -103,6 +103,7 @@
 [i60]: https://github.com/kinmadelen/easy/issues/60
 [i64]: https://github.com/kinmadelen/easy/issues/64
 [i65]: https://github.com/kinmadelen/easy/issues/65
+[i71]: https://github.com/kinmadelen/easy/issues/71
 [ip1]: https://leetcode.com/problems/two-sum/
 [ip2]: https://leetcode.com/problems/add-two-numbers/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
@@ -123,6 +124,7 @@
 [ip121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [ip125]: https://leetcode.com/problems/valid-palindrome/
 [ip136]: https://leetcode.com/problems/single-number/
+[ip138]: https://leetcode.com/problems/copy-list-with-random-pointer/
 [ip141]: https://leetcode.com/problems/linked-list-cycle/
 [ip160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [ip169]: https://leetcode.com/problems/majority-element/
@@ -142,5 +144,5 @@
 [ip387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [ip412]: https://leetcode.com/problems/fizz-buzz/
 [ip1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+[ip2095]: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [ip2181]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
-[ip138]: https://leetcode.com/problems/copy-list-with-random-pointer/
