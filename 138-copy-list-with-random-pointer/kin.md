@@ -48,4 +48,22 @@ class Solution:
 
 ```
 
+## using Recursive
+
+```python
+class Solution:
+    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        hashT = dict()
+        def DFS(head: 'Node'):
+            if head is None:
+                return
+            if head not in hashT:
+                hashT[head] = Node(head.val)
+                hashT[head].next = DFS(head.next)
+                hashT[head].random = DFS(head.random)
+            return hashT[head]
+        return DFS{head}
+
+```
+
 ## Complexity
