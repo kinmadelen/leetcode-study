@@ -64,8 +64,9 @@
 |  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] |  [#65][i65]   |
 |  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          |  [#64][i64]   |
 |  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]                          | [#71][i71] |
-|  6  | 11.27 |    Hard    | TBD                                                                                                               |               |
-|  7  | 11.28 |    Easy    | TBD                                                                                                               |               |
+|  6  | 11.27 |    Hard    | [・Reverse Nodes in k-Group][ip25]  | [#73][i73]              |
+|  7  | 11.29 |    Medium  | [・Odd Even Linked List][ip328]   |               |
+|  7  | 12.01 |    -  |  TBD  |               |
 
 ## Filename Guideline
 
@@ -104,12 +105,14 @@
 [i64]: https://github.com/kinmadelen/easy/issues/64
 [i65]: https://github.com/kinmadelen/easy/issues/65
 [i71]: https://github.com/kinmadelen/easy/issues/71
+[i73]: https://github.com/kinmadelen/easy/issues/73
 [ip1]: https://leetcode.com/problems/two-sum/
 [ip2]: https://leetcode.com/problems/add-two-numbers/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
 [ip14]: https://leetcode.com/problems/longest-common-prefix/
 [ip20]: https://leetcode.com/problems/valid-parentheses/
 [ip21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[ip25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 [ip26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [ip66]: https://leetcode.com/problems/plus-one/
 [ip69]: https://leetcode.com/problems/sqrtx/
@@ -139,6 +142,7 @@
 [ip268]: https://leetcode.com/problems/missing-number/
 [ip283]: https://leetcode.com/problems/move-zeroes/
 [ip326]: https://leetcode.com/problems/power-of-three/
+[ip328]: https://leetcode.com/problems/odd-even-linked-list/
 [ip344]: https://leetcode.com/problems/reverse-string/
 [ip350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [ip387]: https://leetcode.com/problems/first-unique-character-in-a-string/
