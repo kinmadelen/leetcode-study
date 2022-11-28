@@ -64,9 +64,9 @@
 |  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] |  [#65][i65]   |
 |  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          |  [#64][i64]   |
 |  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]                          | [#71][i71] |
-|  6  | 11.27 |    Hard    | [・Reverse Nodes in k-Group][ip25]  | [#73][i73]              |
-|  7  | 11.29 |    Medium  | [・Odd Even Linked List][ip328]   |               |
-|  7  | 12.01 |    -  |  TBD  |               |
+|  6  | 11.28 |    Hard    | [・Reverse Nodes in k-Group][ip25]  | [#73][i73]              |
+|  7  | 11.30 |    Medium  | [・Odd Even Linked List][ip328]   |               |
+|  7  | 12.02 |    -  |  TBD  |               |
 
 ## Filename Guideline
 
