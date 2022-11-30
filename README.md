@@ -58,15 +58,16 @@
 |  5  | 11.16 | [・First Unique Character in a String][ip387]                                                                           | [#55][i55] |
 |     |       | (╮°-°)╮┳━━┳ 휴식 ( ╯°□°)╯ ┻━━┻                                                                                          |            |
 
-|  W  |   D   | Difficulty | Problems                                                                                                          |    Issues     |
-| :-: | :---: | :--------: | :---------------------------------------------------------------------------------------------------------------- | :-----------: |
-|  6  | 11.21 |   Medium   | [・Merge Nodes in Between Zeros][ip2181]                                                                          |  [#60][i60]   |
-|  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] |  [#65][i65]   |
-|  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          |  [#64][i64]   |
-|  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]                          | [#71][i71] |
-|  6  | 11.28 |    Hard    | [・Reverse Nodes in k-Group][ip25]  | [#73][i73]              |
-|  7  | 11.30 |    Medium  | [・Odd Even Linked List][ip328]   |               |
-|  7  | 12.02 |    -  |  TBD  |               |
+|  W  |   D   | Difficulty | Problems                                                                                                          |   Issues   |
+| :-: | :---: | :--------: | :---------------------------------------------------------------------------------------------------------------- | :--------: |
+|  6  | 11.21 |   Medium   | [・Merge Nodes in Between Zeros][ip2181]                                                                          | [#60][i60] |
+|  6  | 11.22 |    Easy    | [・Convert Binary Number in a Linked List to Integer][ip1290] <br /> [・Remove Duplicates from Sorted List][ip83] | [#65][i65] |
+|  6  | 11.24 |   Medium   | [・Add Two Numbers][ip2]                                                                                          | [#64][i64] |
+|  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]               | [#71][i71] |
+|  6  | 11.28 |    Hard    | [・Reverse Nodes in k-Group][ip25]                                                                                | [#73][i73] |
+|  7  | 11.30 |   Medium   | [・Odd Even Linked List][ip328]                                                                                   | [#74][i74] |
+|  7  | 12.01 |   Medium   | [・Delete Node in a Linked List][ip327]                                                                           | [#77][i77] |
+|  7  | 12.02 |     -      | TBD                                                                                                               |            |
 
 ## Filename Guideline
 
@@ -115,7 +116,6 @@
 [ip25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 [ip26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [ip66]: https://leetcode.com/problems/plus-one/
-[ip69]: https://leetcode.com/problems/sqrtx/
 [ip70]: https://leetcode.com/problems/climbing-stairs/
 [ip83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [ip88]: https://leetcode.com/problems/merge-sorted-array/
@@ -150,3 +150,4 @@
 [ip1290]: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
 [ip2095]: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [ip2181]: https://leetcode.com/problems/merge-nodes-in-between-zeros/
+[ip327]: https://leetcode.com/problems/delete-node-in-a-linked-list/
