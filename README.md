@@ -107,6 +107,8 @@
 [i65]: https://github.com/kinmadelen/easy/issues/65
 [i71]: https://github.com/kinmadelen/easy/issues/71
 [i73]: https://github.com/kinmadelen/easy/issues/73
+[i74]: https://github.com/kinmadelen/easy/issues/74
+[i77]: https://github.com/kinmadelen/easy/issues/77
 [ip1]: https://leetcode.com/problems/two-sum/
 [ip2]: https://leetcode.com/problems/add-two-numbers/
 [ip13]: https://leetcode.com/problems/roman-to-integer/
