@@ -1,6 +1,6 @@
 # LEETCODE STUDY - EASY
 
-⭐️ 2022.10.16 ~ 2022.12.01 (끝!)<br />
+⭐️ 2022.10.16 ~ 2022.12.02 👋<br />
 ⏰ Meeting: 06:00 ~ 06:30 (weekdays) KST/JST
 
 ### 💻 Member
