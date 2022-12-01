@@ -1,6 +1,6 @@
 # LEETCODE STUDY - EASY
 
-⭐️ Since 2022.10.16 ~ <br />
+⭐️ 2022.10.16 ~ 2022.12.01 (끝!)<br />
 ⏰ Meeting: 06:00 ~ 06:30 (weekdays) KST/JST
 
 ### 💻 Member
@@ -66,8 +66,7 @@
 |  6  | 11.25 |   Medium   | [・Copy List with Random Pointer][ip138] <br /> [・Delete the Middle Node of a Linked List][ip2095]               | [#71][i71] |
 |  6  | 11.28 |    Hard    | [・Reverse Nodes in k-Group][ip25]                                                                                | [#73][i73] |
 |  7  | 11.30 |   Medium   | [・Odd Even Linked List][ip328]                                                                                   | [#74][i74] |
-|  7  | 12.01 |   Medium   | [・Delete Node in a Linked List][ip327]                                                                           | [#77][i77] |
-|  7  | 12.02 |     -      | TBD                                                                                                               |            |
+|  7  | 12.02 |   Medium   | [・Delete Node in a Linked List][ip327]                                                                           | [#77][i77] |
 
 ## Filename Guideline
 
